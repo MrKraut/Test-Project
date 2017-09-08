@@ -1,6 +1,6 @@
 new text
 
-another line
+another line no conflict
 
 and another
 
