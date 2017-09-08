@@ -2,6 +2,6 @@ new text
 
 another line
 
-and another
+and another no conflict
 
 more changes
