@@ -1,6 +1,6 @@
 new text
 
-another line conflict change
+another line has conflict change problem
 
 and another no conflict
 
