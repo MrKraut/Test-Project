@@ -2,6 +2,6 @@ new text
 
 another line has conflict change problem
 
-and another no conflict
+and another
 
 more changes
