@@ -1,1 +1,7 @@
 new text
+
+another line
+
+and another
+
+more changes
